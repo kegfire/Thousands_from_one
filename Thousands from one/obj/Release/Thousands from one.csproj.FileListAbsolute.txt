@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\bin\Release\Thousands from one.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\bin\Release\Thousands from one.exe
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\bin\Release\Thousands from one.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\MainWindow.g.cs
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\App.g.cs
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one_MarkupCompile.cache
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one_MarkupCompile.lref
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\MainWindow.baml
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one.g.resources
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands_from_one.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one.exe
+C:\Users\User\documents\visual studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Thousands from one\Thousands from one\obj\Release\Thousands from one.csprojResolveAssemblyReference.cache
